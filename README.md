@@ -1,4 +1,5 @@
-# manhattan
+![Image of manhattan project](https://cloud.githubusercontent.com/assets/4383889/9624174/0caadd48-50ff-11e5-8031-f919a6450950.jpg)
+
 repo for manhattan project
 
 **Application name: Sparky Dash**
@@ -8,6 +9,7 @@ repo for manhattan project
 
 ---
 **Tasks**
+
 Stage 1:
 Develop Sparky sprite and obstacles 
 
