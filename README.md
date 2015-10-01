@@ -11,7 +11,7 @@ Sogeti is a wholly owned subsidiary of Capgemini Group. The Sogeti Group is an i
 
  
  
-**Sparky Dash** is a 2D mobile platform game. Like other famously popular platform games, Sparky Dash is a game that drives you to get the highest score possible. The game is a side scrolling platform game that will show Sparky running around Arizona State University jumping over various objects. When the user successfully jumps an object, they will be given a point. The object of the game is obtain as many points as possible. Sparky Dash will be develop to run on mobile platform, mainly android.
+**Devel Dash** is a 2D mobile platform game. Like other famously popular platform games, Devil Dash is a game that drives you to get the highest score possible. The game is a side scrolling platform game that will show Devil running around the desert jumping over various objects. When the user successfully jumps an object, they will be given a point. The object of the game is obtain as many points as possible. Devil Dash will be develop to run on mobile platform, mainly android.
  
  
 **Paper Prototype**
